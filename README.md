@@ -12,4 +12,4 @@ This repository contains my first SQL program as I begin learning
 To build a strong foundation in SQL and gradually learn advanced database concepts.
 
 ## Author
-chandani kumari
+chandani chouhan
