@@ -1,3 +1,5 @@
+CREATE DATABASE online_shopping;
+USE online_shopping;
 CREATE TABLE customers (
     customer_id INT PRIMARY KEY AUTO_INCREMENT,
     first_name VARCHAR(50) NOT NULL,
